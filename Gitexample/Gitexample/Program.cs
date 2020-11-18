@@ -12,6 +12,7 @@ namespace Gitexample
         {
 
             Console.WriteLine("Hello world, jenkins through git");
+            Console.WriteLine("hello");
         }
     }
 }
